@@ -2,9 +2,9 @@
 
 * [Bienvenidos a TitaniumG](README.md)
 
-## Generales
+## Normativas Generales
 
-* [Normativa General](generales/normativa-general.md)
+* [Concepto Basico](normativas-generales/concepto-basico.md)
 
 ## LSPD
 
