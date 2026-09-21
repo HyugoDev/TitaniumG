@@ -86,6 +86,6 @@ Use **one project with multiple environments** when:
 [permissions.md](permissions.md)
 {% endcontent-ref %}
 
-{% content-ref url="../reference/configuration.md" %}
-[configuration.md](../reference/configuration.md)
+{% content-ref url="../stremer/configuration.md" %}
+[configuration.md](../stremer/configuration.md)
 {% endcontent-ref %}

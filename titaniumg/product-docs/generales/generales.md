@@ -3,7 +3,7 @@ description: Set up your account and ship your first project in minutes.
 icon: rocket-launch
 ---
 
-# Getting started
+# Generales
 
 New to the platform? These pages walk you through everything you need to know to ship something real.
 
@@ -18,6 +18,6 @@ Before you start, make sure you have:
 * [x] A few minutes of uninterrupted time
 
 {% hint style="info" %}
-If you're evaluating the platform for your team rather than yourself, jump to [Core concepts](https://app.gitbook.com/s/KOtcxD8YAfs5ArWBzcbB/core-concepts "mention") first — it'll save time when you set things up properly.
+If you're evaluating the platform for your team rather than yourself, jump to [LSPD](https://app.gitbook.com/s/KOtcxD8YAfs5ArWBzcbB/lspd "mention") first — it'll save time when you set things up properly.
 {% endhint %}
 

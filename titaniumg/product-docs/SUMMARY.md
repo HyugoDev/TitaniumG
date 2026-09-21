@@ -2,26 +2,32 @@
 
 * [Normativas](README.md)
 
-## Getting Started
+## Generales
 
-* [Getting started](getting-started/getting-started.md)
-* [Quickstart](getting-started/quickstart.md)
-* [Your first project](getting-started/your-first-project.md)
+* [Generales](generales/generales.md)
 
-## Core concepts
+## LSPD
 
-* [Core concepts](core-concepts/core-concepts.md)
-* [Workspaces and projects](core-concepts/workspaces-and-projects.md)
-* [Permissions](core-concepts/permissions.md)
+* [Core concepts](lspd/core-concepts.md)
+* [Workspaces and projects](lspd/workspaces-and-projects.md)
+* [Permissions](lspd/permissions.md)
 
-## Guides
+## EMS
 
-* [Guides](guides/guides.md)
-* [Custom domains](guides/custom-domains.md)
-* [Automations](guides/automations.md)
+* [Guides](ems/guides.md)
+* [Custom domains](ems/custom-domains.md)
+* [Automations](ems/automations.md)
 
-## Reference
+## STREMER
 
-* [Reference](reference/reference.md)
-* [Configuration](reference/configuration.md)
-* [Glossary](reference/glossary.md)
+* [Reference](stremer/reference.md)
+* [Configuration](stremer/configuration.md)
+* [Glossary](stremer/glossary.md)
+
+## ILEGAL
+
+* [Page 1](ilegal/page-1.md)
+
+## NEGOCIOS
+
+* [Page 2](negocios/page-2.md)
