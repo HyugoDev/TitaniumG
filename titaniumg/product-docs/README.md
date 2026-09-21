@@ -30,10 +30,6 @@ layout:
 
 # Bienvenidos a TitaniumG
 
-<button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question…</button>
-
-<button type="button" class="button secondary" data-action="ask" data-query="How do I deploy my first project" data-icon="rocket-launch">Deploy your first project</button><button type="button" class="button secondary" data-action="ask" data-query="How do I set up a custom domain" data-icon="globe">Set up a custom domain</button><button type="button" class="button secondary" data-action="ask" data-query="How do I invite my team" data-icon="user-group">Invite your team</button>
-
 ***
 
 ⚠️ ¡Un paso fundamental antes de empezar!
