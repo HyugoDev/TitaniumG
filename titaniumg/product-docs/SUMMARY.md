@@ -4,7 +4,7 @@
 
 ## Generales
 
-* [Generales](generales/generales.md)
+* [Normativa General](generales/normativa-general.md)
 
 ## LSPD
 
