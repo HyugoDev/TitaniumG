@@ -4,7 +4,7 @@
 
 ## Normativas Generales
 
-* [Concepto Basico](normativas-generales/concepto-basico.md)
+* [REGLAMENTO OFICIAL DE TITANIUMG ROLEPLAY](normativas-generales/reglamento-oficial-de-titaniumg-roleplay.md)
 
 ## LSPD
 
