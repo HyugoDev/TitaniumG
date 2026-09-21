@@ -4,7 +4,7 @@
 
 ## Normativas Generales
 
-* [REGLAMENTO OFICIAL DE TITANIUMG ROLEPLAY](normativas-generales/reglamento-oficial-de-titaniumg-roleplay.md)
+* [REGLAMENTO OFICIAL DE TITANIUMG](normativas-generales/reglamento-oficial-de-titaniumg.md)
 
 ## LSPD
 
