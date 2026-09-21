@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Normativas](README.md)
+* [Bienvenidos a TitaniumG](README.md)
 
 ## Generales
 
