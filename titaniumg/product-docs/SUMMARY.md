@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Normativas](README.md)
 
 ## Getting Started
 
