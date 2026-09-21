@@ -7,6 +7,7 @@ site:
       title: TitaniumG Docs
       path: titaniumg
       description: ""
+      icon: book-bookmark
       default: true
       children:
         - type: space
