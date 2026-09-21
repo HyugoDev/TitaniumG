@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Bienvenidos a TitaniumG](README.md)
-  * [Page 3](bienvenidos-a-titaniumg/page-3.md)
 
 ## Generales
 
