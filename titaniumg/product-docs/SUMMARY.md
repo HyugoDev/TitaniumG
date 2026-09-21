@@ -6,11 +6,11 @@
 
 * [REGLAMENTO OFICIAL DE TITANIUMG](normativas-generales/reglamento-oficial-de-titaniumg.md)
 
-## LSPD
+## NORMATIVA LEGALES
 
-* [Core concepts](lspd/core-concepts.md)
-* [Workspaces and projects](lspd/workspaces-and-projects.md)
-* [Permissions](lspd/permissions.md)
+* [Normativa Oficial TPD](normativa-legales/normativa-oficial-tpd.md)
+* [Workspaces and projects](normativa-legales/workspaces-and-projects.md)
+* [Permissions](normativa-legales/permissions.md)
 
 ## EMS
 
