@@ -30,8 +30,8 @@ icon: book-bookmark
 
 * Prohibido el "Reanimar Rápidamente": Queda estrictamente prohibido usar comandos mecánicos de reanimación sin antes interpretar la revisión del paciente.
 * Uso Obligatorio de Comandos:
-  * Debe usarse `/me` para detallar las acciones físicas (ej. `/me saca el desinfectante y limpia la herida de bala`).
-  * Debe usarse `/do` para consultar el estado del paciente (ej. `/do ¿Tendría pulso la persona?` o `/do ¿Dónde presenta los impactos de bala?`).
+  * Debe usarse `/me` para detallar las acciones físicas (ej. `/me le revisa el pulso`).
+  * Debe usarse `/do` para consultar el estado del paciente (ej. `/do ¿Tendría pulso` ).
 * Respeto a las Lesiones Severas: Lesiones graves (caídas desde gran altura, accidentes de tránsito a alta velocidad o múltiples disparos) requieren traslado obligatorio en ambulancia hacia el hospital para intervención en quirófano.
 
 
