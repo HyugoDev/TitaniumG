@@ -12,22 +12,10 @@
 * [Normativa Oficial (TMS)](normativa-legales/normativa-oficial-tms.md)
 * [Normativa Oficial de Negocios y Empresas](normativa-legales/normativa-oficial-de-negocios-y-empresas.md)
 
-## EMS
+## NORMATIVA DELICTIVA
 
-* [Guides](ems/guides.md)
-* [Custom domains](ems/custom-domains.md)
-* [Automations](ems/automations.md)
+* [Normativa Ilegal](normativa-delictiva/normativa-ilegal.md)
 
 ## STREMER
 
-* [Reference](stremer/reference.md)
-* [Configuration](stremer/configuration.md)
-* [Glossary](stremer/glossary.md)
-
-## ILEGAL
-
-* [Page 1](ilegal/page-1.md)
-
-## NEGOCIOS
-
-* [Page 2](negocios/page-2.md)
+* [Normativa para Streamers y Creadores de Contenido](stremer/normativa-para-streamers-y-creadores-de-contenido.md)
