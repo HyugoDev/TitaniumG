@@ -9,7 +9,7 @@
 ## NORMATIVA LEGALES
 
 * [Normativa Oficial TPD](normativa-legales/normativa-oficial-tpd.md)
-* [Workspaces and projects](normativa-legales/workspaces-and-projects.md)
+* [Normativa Oficial (TMS)](normativa-legales/normativa-oficial-tms.md)
 * [Permissions](normativa-legales/permissions.md)
 
 ## EMS
