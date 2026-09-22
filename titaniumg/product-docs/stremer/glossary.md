@@ -15,7 +15,7 @@ Plain-language definitions of terms used across the platform. Click any entry to
 
 <summary><strong>API key</strong></summary>
 
-A secret token that authenticates requests to the platform's API. Keys are scoped to a workspace and inherit the permissions of whoever created them. See [permissions.md](../normativa-legales/permissions.md "mention").
+A secret token that authenticates requests to the platform's API. Keys are scoped to a workspace and inherit the permissions of whoever created them. See [normativa-oficial-de-negocios-y-empresas.md](../normativa-legales/normativa-oficial-de-negocios-y-empresas.md "mention").
 
 </details>
 
@@ -67,7 +67,7 @@ The set of variables, secrets, and configuration that applies when your project 
 
 <summary><strong>Guest</strong></summary>
 
-A workspace role that can view published deploys but nothing else. Guests don't count towards your member limit. See [permissions.md](../normativa-legales/permissions.md "mention").
+A workspace role that can view published deploys but nothing else. Guests don't count towards your member limit. See [normativa-oficial-de-negocios-y-empresas.md](../normativa-legales/normativa-oficial-de-negocios-y-empresas.md "mention").
 
 </details>
 
@@ -103,7 +103,7 @@ A deployable unit. Each project has its own source, builds, deploys, environment
 
 <summary><strong>Role</strong></summary>
 
-A workspace-level designation that determines what a member can do. Roles are: Guest, Viewer, Reviewer, Editor, and Admin. See [permissions.md](../normativa-legales/permissions.md "mention").
+A workspace-level designation that determines what a member can do. Roles are: Guest, Viewer, Reviewer, Editor, and Admin. See [normativa-oficial-de-negocios-y-empresas.md](../normativa-legales/normativa-oficial-de-negocios-y-empresas.md "mention").
 
 </details>
 

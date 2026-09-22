@@ -10,7 +10,7 @@
 
 * [Normativa Oficial TPD](normativa-legales/normativa-oficial-tpd.md)
 * [Normativa Oficial (TMS)](normativa-legales/normativa-oficial-tms.md)
-* [Permissions](normativa-legales/permissions.md)
+* [Normativa Oficial de Negocios y Empresas](normativa-legales/normativa-oficial-de-negocios-y-empresas.md)
 
 ## EMS
 
