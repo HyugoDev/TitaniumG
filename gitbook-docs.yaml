@@ -15,7 +15,6 @@ site:
           title: TitaniumG Docs
           path: product-docs
           default: true
-          draft: true
           content:
             directory: ./titaniumg/product-docs
             language: es
