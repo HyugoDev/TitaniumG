@@ -1,8 +1,11 @@
 ---
-icon: book-bookmark
+icon: badge-sheriff
+cover: https://cdn.mos.cms.futurecdn.net/xnvCsQmaSTg4BrungmQhni.jpg
+coverY: 162.13333333333333
+coverHeight: 316
 ---
 
-# Normativa Oficial TPD
+# Titanium Police Department (TPD)
 
 Como miembro de la TPD, eres la cara visible de la ley en la ciudad. Tu objetivo principal es mantener el orden, proteger a los ciudadanos y generar un rol de calidad para toda la comunidad.
 
@@ -37,9 +40,20 @@ Como miembro de la TPD, eres la cara visible de la ley en la ciudad. Tu objetivo
 
 
 
-*   1 .Lectura de Derechos: Es obligatorio leer los Derechos Miranda a todo detenido antes de ingresarlo a celdas:
+* 1 .Lectura de Derechos: Es obligatorio leer los Derechos Miranda a todo detenido antes de ingresarlo a celdas:
 
-    > _"Tiene derecho a permanecer en silencio. Todo lo que diga puede y será usado en su contra en un tribunal. Tiene derecho a una llamada telefónica y a asistencia médica si la necesita."_
+
+
+> _"Tiene derecho a permanecer en silencio._&#x20;
+>
+> _Todo lo que diga puede y será usado en su contra en un tribunal._&#x20;
+>
+> _Tiene derecho a una llamada telefónica en presencia de un ocicial._
+>
+> _Tiene derecho a asistencia médica si la necesita."_
+
+
+
 * 2\. Tiempo de Retención: Las detenciones no deben extenderse innecesariamente. Si no hay pruebas suficientes o el procedimiento se alarga de forma injustificada, se debe liberar al sujeto o procesar la multa correspondiente.
 * 3\. Cacheo y Cacheo Superficial: Solo se puede registrar a un individuo si hay una sospecha razonable, un delito flagrante o durante un arresto.
 

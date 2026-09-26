@@ -1,9 +1,37 @@
 ---
-description: 1. CONCEPTOS GENERALES Y CONCEPTOS CLAVE
+description: 1. CONCEPTOS CLAVE
 icon: receipt
+cover: >-
+  https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXllMzBicHg0bmJuMnV6cTBiOGZ6YmFjanhpdDBmcHlzODY0OWJjaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/r2TVE1YWUZZy51A2tE/giphy.gif
+coverY: 0
+coverHeight: 308
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
-# REGLAMENTO OFICIAL DE TITANIUMG
+# CONCEPTOS GENERALES
 
 <table><thead><tr><th>Concepto</th><th>Termino</th><th width="383">Definicion</th></tr></thead><tbody><tr><td> <strong>IC</strong></td><td> In Character</td><td>Todo lo que realiza, dice o piensa tu personaje dentro de la ciudad.</td></tr><tr><td><strong>OOC</strong></td><td>Out Of Character</td><td>Todo lo que pertenece al jugador fuera del personaje. El chat OOC solo debe usarse para temas técnicos o dudas puntuales, nunca durante un rol activo.</td></tr><tr><td><strong>FairPlay</strong></td><td>juego limpio</td><td>Busca siempre el entretenimiento mutuo. Ganar no lo es todo en el roleplay; perder también genera grandes historias.</td></tr><tr><td><strong>Respeto</strong></td><td>OOC</td><td>Las faltas de respeto, insultos, discriminación, acoso o toxicidad hacia otros jugadores o miembros del Staff fuera de rol resultarán en ban permanente.</td></tr></tbody></table>
 
@@ -17,18 +45,9 @@ icon: receipt
 
 4. ZONAS SEGURAS Y ENTORNO
 
-<table><thead><tr><th>Concepto</th><th>Termino</th><th width="373">Definicion</th></tr></thead><tbody><tr><td>Zonas Seguras</td><td> Ubicaciones Restricciones</td><td>Comisarías, Hospitales, Mecánicos y sedes del Gobierno. En estas áreas está prohibido iniciar actos delictivos, secuestros o agresiones (a menos que el rol provenga desde fuera y cuente con aprobación previa).</td></tr><tr><td>Comando , Uso Principal</td><td><code>/me</code> </td><td><p></p><ul><li><code>/me</code>: Se usa estrictamente para acciones físicas que el juego no reproduce visualmente (ej. <code>/me le quita las llaves del bolsillo</code>). </li></ul></td></tr><tr><td>Comando , Uso Principal</td><td><code>/do</code></td><td><code>/do</code>: Se usa para describir el entorno, estado físico o responder preguntas sobre la situación (ej. <code>/do ¿Tendría las llaves a la vista?</code>). Queda prohibido mentir por <code>/do</code>.</td></tr></tbody></table>
+<table><thead><tr><th>Concepto</th><th>Termino</th><th width="373">Definicion</th></tr></thead><tbody><tr><td>Zonas Seguras</td><td> Ubicaciones Restricciones</td><td>Comisarías, Hospitales, Mecánicos y sedes del Gobierno. En estas áreas está prohibido iniciar actos delictivos, secuestros o agresiones (a menos que el rol provenga desde fuera y cuente con aprobación previa).</td></tr><tr><td colspan="2"><h4><code>/me</code> </h4></td><td><p></p><ul><li><code>/me</code>: Se usa estrictamente para acciones físicas que el juego no reproduce visualmente (ej. <code>/me le quita las llaves del bolsillo</code>). </li></ul></td></tr><tr><td colspan="2"><code>/do</code></td><td><code>/do</code>: Se usa para describir el entorno, estado físico o responder preguntas sobre la situación (ej. <code>/do ¿Tendría las llaves a la vista?</code>). Queda prohibido mentir por <code>/do</code>.</td></tr></tbody></table>
 
 5. SERVICIOS PÚBLICOS Y ENTIDADES
 
 <table><thead><tr><th>Concepto</th><th>Termino</th><th width="371">Definicion</th></tr></thead><tbody><tr><td>EMS y Policía</td><td>Pilares de la ciudad</td><td>Queda prohibido robar, secuestrar o agredir a los EMS cuando estén en servicio activo. Para interactuar de forma hostil con la Policía debe existir una razón de peso.</td></tr><tr><td>Llamadas de Entorno</td><td>Al cometer un delito</td><td>debes simular que hay testigos llamando a la policía utilizando el comando o sistema correspondiente. /911 es para poli y /912 es para EMS</td></tr></tbody></table>
 
-6. SANCIONES
-
-Las infracciones serán evaluadas por el equipo de Staff según la gravedad:
-
-* Warn / Advertencia escrita.
-* BAN Temporal (24h - 7 días).
-* BAN Permanente.
-
-> 🛠️ _Si presencias una infracción, no rompas el rol. Continúa la escena y al finalizar abre un ticket  adjuntando las pruebas correspondientes (video)._

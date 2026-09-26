@@ -38,6 +38,8 @@ Para asegurar que todos tengamos la mejor experiencia y la mejor convivencia den
 
 📖 Lee el reglamento completo.
 
+<figure><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHdiZzZ0aWV6eHdiZGdpeGp5bzQzeHN6eWdyZ2VvdWk0emJsaDNleCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Wp0ZtQjgViqR2/giphy.gif" alt=""><figcaption></figcaption></figure>
+
 Tómate solo un par de minutos para revisarlas detenidamente antes de comenzar a jugar.
 
 > 📌 _Ten presente que seguir las normas nos ayuda a mantener un ambiente justo y divertido para todos._
