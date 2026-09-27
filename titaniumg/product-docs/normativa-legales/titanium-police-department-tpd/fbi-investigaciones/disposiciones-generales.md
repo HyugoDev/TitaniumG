@@ -20,11 +20,11 @@ Ningún agente podrá utilizar su cargo para beneficio personal, intimidación i
 
 <summary><mark style="color:blue;">Para iniciar una investigación, deberá existir un mínimo de <strong>XXX DNI por integrante involucrado</strong>. La cantidad de DNI deberá estar directamente relacionada con el número de integrantes de la organización investigada.</mark></summary>
 
-Por ejemplo, **X DNI por integrante**:
+Por ejemplo, **5 DNI por integrante**:
 
-* Organización de **6 integrantes** → X DNI.
-* Organización de **10 integrantes** → X DNI.
-* Organización de **12 integrantes** → X DNI.
+* Organización de **6 integrantes** → 30 DNI.
+* Organización de **10 integrantes** → 50 DNI.
+* Organización de **12 integrantes** → 60 DNI.
 
 </details>
 

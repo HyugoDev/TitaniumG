@@ -4,19 +4,19 @@ icon: arrow-trend-up
 
 # Rangos
 
-Alumno
+Alumno (no importa)
 
-Cadete
+Cadete (comida)
 
-Oficial
+Oficial (5 k )
 
-Cabo
+Cabo (8k)
 
-Sargento
+Sargento (12 k)
 
-Sargento Major
+Sargento Major (15 k)
 
-Teniente
+Teniente (20 k)
 
 Capitan
 
@@ -27,8 +27,3 @@ Major
 Sub jefe
 
 Jefe de policia
-
-```mermaid
-graph TD
-  Alumno --> Cadete -->  Oficial --> Cabo --> Sargento --> Sargento Major --> Teniente --> Capitan --> Oficial Ejecutivo --> Major
-```

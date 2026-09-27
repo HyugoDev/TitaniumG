@@ -2,7 +2,7 @@
 icon: book-bookmark
 ---
 
-# Normativa Ilegal
+# Normativa Ilegal (lobo)
 
 1. Conceptos Fundamentales e Interpretación (IC)
 
@@ -47,3 +47,6 @@ icon: book-bookmark
 * Alianzas Temporales: Queda prohibida la fusión de dos o más bandas ilegales para superar los cupos máximos permitidos en un atraco o tiroteo.
 * Puntos de Droga y Mercado Negro: Los puntos de procesado y venta de drogas no son zonas seguras. Las bandas pueden disputar su control siempre que exista presencia policial acorde y un tiempo de espera mínimo entre asaltos a laboratorios (Cooldowntime).
 
+{% hint style="danger" %}
+no puedes invadir rol ni cortar a los delictivos que ganaron un robo
+{% endhint %}

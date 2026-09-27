@@ -11,7 +11,7 @@
 * [CHARACTER KILL (CK) y PARTIAL KILL (PK)](normativas-generales/character-kill-ck-y-partial-kill-pk.md)
 * [PROHIBICIONES](normativas-generales/prohibiciones.md)
 * [REGLAS +18](normativas-generales/reglas-+18.md)
-* [SANCIONES](normativas-generales/sanciones.md)
+* [SANCIONES (LOBO)](normativas-generales/sanciones-lobo.md)
 
 ## NORMATIVA LEGALES
 
@@ -33,8 +33,17 @@
 
 ## NORMATIVA DELICTIVA
 
-* [Normativa Ilegal](normativa-delictiva/normativa-ilegal.md)
+* [Normativa Ilegal (lobo)](normativa-delictiva/normativa-ilegal-lobo.md)
+* [Niveles](normativa-delictiva/niveles.md)
 
 ## STREMER
 
 * [Normativa para Streamers y Creadores de Contenido](stremer/normativa-para-streamers-y-creadores-de-contenido.md)
+
+## DONACIONES
+
+* [Organizacion](donaciones/organizacion.md)
+* [Empresas](donaciones/empresas.md)
+* [Viviendas](donaciones/viviendas.md)
+* [Autos](donaciones/autos.md)
+* [Ropa](donaciones/ropa.md)

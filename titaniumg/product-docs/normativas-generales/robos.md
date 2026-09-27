@@ -11,7 +11,7 @@ coverHeight: 298
 
 ### Antes del rob&#x6F;**:**&#x20;
 
-* Se deberá solicitar disponibilidad a la Policía mediante el comando `/xxx`.
+* Se deberá solicitar disponibilidad a la Policía mediante el comando `/anon @policia disponible [tipo de robo] de [# delictivo]`.
 
 {% hint style="warning" icon="user-police" %}
 Siempre deberá haber 1 policía más que los delictivos.
@@ -39,6 +39,7 @@ Siempre deberá haber 1 policía más que los delictivos.
 * Sustancias Ilicitas
 * Objetos ilegales
 * Evidencia
+* Armas Policiales
 {% endhint %}
 
 {% hint style="danger" icon="xmark-large" %}
@@ -49,7 +50,7 @@ No cateables:
 * Dinero limpio
 * Celular
 * Comida/Bebida
-* Obejtos personales / VIP
+* Obejtos personales
 {% endhint %}
 
 > ⚠️ <mark style="color:$warning;">**EXCEPCIÓN — ZONA ROJA:**</mark>\
@@ -59,4 +60,14 @@ No cateables:
 El número máximo de civiles que podrán participar en un robo será de **4 personas**.
 {% endhint %}
 
-<table data-search="false"><thead><tr><th width="163">Establecimiento</th><th width="111"># Delictivos</th><th width="158">Armamento</th><th>Modalidad del robo</th><th data-hidden data-type="rating" data-max="5"></th></tr></thead><tbody><tr><td>TIENDA</td><td><p>Mínimo 1</p><p>Máximo 3</p></td><td><p>Pistola o</p><p>arma de cuerpo a cuerpo</p></td><td rowspan="5"><ul><li>Tiroteo en el establecimiento y alrededeores ( solo Zona fontal )</li><li>Negociación de huida con las autoridades. </li></ul><p><a href="../normativa-legales/titanium-police-department-tpd/atracos-y-operativos.md" class="button primary small" data-icon="person-from-portal">Atracos y Operativos</a></p></td><td>null</td></tr><tr><td>FLECCA</td><td rowspan="2"><p>Mínimo 4</p><p>Máximo 6</p></td><td rowspan="4">grado 1 y 2 (Pistolas, SMG)</td><td>null</td></tr><tr><td>CARNICERIA</td><td>null</td></tr><tr><td>JOYERIA</td><td rowspan="2"><p>Mínimo 6</p><p>Máximo 8</p></td><td>null</td></tr><tr><td>FACEBOOK</td><td>null</td></tr><tr><td>BANCO CENTRAL</td><td><p>Mínimo 8</p><p>Máximo 10</p></td><td rowspan="2">grado 2 y 3 (SMG, sub-rifles y rifles.)</td><td rowspan="2">Tiroteo en el establecimiento y alrededeores (solo Zona fontal)</td><td>null</td></tr><tr><td>HUMANE LABS</td><td><p>Mínimo 8</p><p>Máximo 12</p></td><td>null</td></tr></tbody></table>
+{% hint style="info" %}
+Armas policiales se venden
+{% endhint %}
+
+## TIPOS DE ROBO
+
+<table data-search="false"><thead><tr><th width="163">Establecimiento</th><th width="111"># Delictivos</th><th width="158">Armamento</th><th>Modalidad del robo</th><th data-hidden data-type="rating" data-max="5"></th></tr></thead><tbody><tr><td>TIENDA</td><td><p>Mínimo 1</p><p>Máximo 2</p></td><td><p>Pistola o</p><p>arma de cuerpo a cuerpo</p></td><td rowspan="5"><ul><li>Tiroteo en el establecimiento y alrededeores ( solo Zona fontal )</li><li>Negociación de huida con las autoridades. </li></ul><p><a href="../normativa-legales/titanium-police-department-tpd/atracos-y-operativos.md" class="button primary small" data-icon="person-from-portal">Atracos y Operativos</a></p></td><td>null</td></tr><tr><td>FLECCA</td><td rowspan="2"><p>Mínimo 4</p><p>Máximo 6</p></td><td rowspan="4">grado 1 y 2 (Pistolas, SMG)</td><td>null</td></tr><tr><td>CARNICERIA</td><td>null</td></tr><tr><td>JOYERIA</td><td rowspan="2"><p>Mínimo 6</p><p>Máximo 8</p></td><td>null</td></tr><tr><td>FACEBOOK</td><td>null</td></tr><tr><td>BANCO CENTRAL</td><td><p>Mínimo 8</p><p>Máximo 10</p></td><td rowspan="2">grado 2 y 3 (SMG, sub-rifles y rifles.)</td><td rowspan="2">Tiroteo en el establecimiento y alrededeores (solo Zona fontal)</td><td>null</td></tr><tr><td>HUMANE LABS</td><td><p>Mínimo 8</p><p>Máximo 12</p></td><td>null</td></tr></tbody></table>
+
+{% hint style="danger" icon="car-side" %}
+NO SE PERMITEN BLINDADOS EN NINGUN ATRACO
+{% endhint %}

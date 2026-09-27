@@ -12,7 +12,7 @@ icon: car
 * Si un jugador <mark style="color:$danger;">no valora su vida</mark> durante una situación de riesgo, podrá aplicarse un <mark style="color:$warning;">**CK**</mark>, de acuerdo con la normativa correspondiente.
 
 {% hint style="warning" icon="car-bolt" %}
-Los vehiculos blindados estan/no estan permitidos en ciudad???
+Los vehiculos blindados no estan permitidos en ciudad
 {% endhint %}
 
 #### 🚨 Casos delictivos
