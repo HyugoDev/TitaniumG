@@ -1,10 +1,10 @@
 ---
 icon: hand-wave
 cover:
-  light: .gitbook/assets/titaniumg.png
-  dark: .gitbook/assets/Póster Iluminación Morada (1).png
-coverY: -29.132290184921764
-coverHeight: 281
+  light: /broken/files/RZpIRdcKO9xoHTOAdnVU
+  dark: .gitbook/assets/titaniumg (2).png
+coverY: 36.47510668563301
+coverHeight: 344
 layout:
   width: default
   cover:
