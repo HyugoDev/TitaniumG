@@ -25,7 +25,7 @@ NO PUEDES ATROPELLARLOS PARA EVITAR LA SITUACION.
 {% endhint %}
 
 {% hint style="success" %}
-Esta restricción **no aplicará a vehículos blindados**.
+Esta restricción **no aplicará a vehículos blindados** ya que no existe valoracion de vida en estos vehiculos.
 {% endhint %}
 
 #### 👮 Casos legales — Policía
@@ -39,4 +39,7 @@ Esta restricción **no aplicará a vehículos blindados**.
 * Los helicópteros únicamente podrán aterrizar en:
   * **Helipuertos autorizados dentro de la ciudad.**
   * **Zonas despejadas** donde el aterrizaje sea razonable **en la zona norte.**
-* Queda prohibido aterrizar en lugares donde las condiciones del entorno no permitan realizarlo de manera razonable.
+
+{% hint style="danger" %}
+Queda prohibido aterrizar en lugares donde las condiciones del entorno no permitan realizarlo de manera razonable.
+{% endhint %}

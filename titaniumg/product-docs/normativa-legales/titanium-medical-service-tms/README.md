@@ -10,7 +10,7 @@ coverY: 0
 
 
 * Neutralidad Absoluta (IC): El personal médico no pertenece a ninguna facción ni bando criminal/policial. Todo paciente debe ser atendido con la misma prioridad según la gravedad de sus lesiones, sin importar quién sea.
-* <mark style="background-color:red;">Prohibición de Actividades Ilícitas: Un médico no puede realizar actos delictivos (robos, venta de drogas, portación de armas ilegales, participación en tiroteos) ni uniformado ni fuera de servicio con personajes pertenecientes a la facción.</mark>
+* Prohibición de Actividades Ilícitas: Un médico no puede realizar actos delictivos (robos, venta de drogas, portación de armas ilegales, participación en tiroteos) ni uniformado ni fuera de servicio con personajes pertenecientes a la facción.
 * Prohibición de Remate / Asesinato: Bajo ninguna circunstancia un médico puede ejecutar o rematar a un paciente. Su objetivo principal es salvar vidas.
 * Secreto Profesional: La información médica de los pacientes es confidencial. Solo se entregará información a la policía (TPD) bajo una orden judicial firme expedida por el departamento legal o la fiscalía.
 

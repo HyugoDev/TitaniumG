@@ -17,10 +17,14 @@ Como miembro de la TPD, eres la cara visible de la ley en la ciudad. Tu objetivo
 
 
 
-* Neutralidad e Imparcialidad: Un oficial debe actuar sin favoritismos. Queda prohibido beneficiar a amigos o conocidos dentro de rol.
-* Respeto en Servicio: El trato hacia los ciudadanos y detenidos debe ser profesional en todo momento, salvo que la situación de rol justifique el uso de la fuerza o firmeza verbal.
-* Corrupción Policial: La corrupción (aceptar sobornos, vender armas de la facción, colaborar con bandas) está estrictamente prohibida a menos que cuentes con la aprobación explícita de la Jefatura y del Staff mediante una historia/postulación previa.
-* Custodia del Equipamento: Queda prohibido regalar, vender o guardar en armarios personales/vehículos privados el armamento, munición o equipamiento reglamentario.
+* **Neutralidad e Imparcialidad:** Un oficial debe actuar sin favoritismos. Queda prohibido beneficiar a amigos o conocidos dentro de rol.
+* **Respeto en Servicio:** El trato hacia los ciudadanos y detenidos debe ser profesional en todo momento, salvo que la situación de rol justifique el uso de la fuerza o firmeza verbal.
+* **Corrupción Policial:** La corrupción (aceptar sobornos, vender armas de la facción, colaborar con bandas) está estrictamente prohibida a menos que cuentes con la aprobación explícita de la Jefatura y del Staff mediante una historia/postulación previa.
+* **Custodia del Equipamento:** Queda prohibido regalar, vender o guardar en armarios personales/vehículos privados el armamento, munición o equipamiento reglamentario.
+
+{% hint style="warning" %}
+Tambien incluye armamento delictivo, evidencias y sustancias ilicitas
+{% endhint %}
 
 
 
@@ -32,7 +36,9 @@ Como miembro de la TPD, eres la cara visible de la ley en la ciudad. Tu objetivo
 * &#x20;Nivel 2 (Fuerza Menor): Empleo de taser, macana/porra , resistencia física no letal.
 * &#x20;Nivel 3 (Fuerza Letal): Uso de armas de fuego reglamentarias. Solo se permite disparar cuando la vida del oficial o de terceros esté en peligro inminente (ej. si el sospechoso muestra un arma de fuego o dispara).
 
-> 🚫 _Prohibido usar el taser si el sospechoso está al volante de un vehículo en marcha o si te está apuntando con un arma de fuego._
+{% hint style="danger" icon="ban" %}
+_Prohibido usar el taser si el sospechoso está al volante de un vehículo en marcha o si te está apuntando con un arma de fuego._
+{% endhint %}
 
 
 
@@ -40,32 +46,27 @@ Como miembro de la TPD, eres la cara visible de la ley en la ciudad. Tu objetivo
 
 
 
-* 1 .Lectura de Derechos: Es obligatorio leer los Derechos Miranda a todo detenido antes de ingresarlo a celdas:
+{% stepper %}
+{% step %}
+### 1 .Lectura de Derechos:&#x20;
 
+Es obligatorio leer los Derechos Miranda a todo detenido antes de ingresarlo a celdas
 
+> _"Tiene derecho a permanecer en silencio. Todo lo que diga puede y será usado en su contra en un tribunal. Tiene derecho a una llamada telefónica en presencia de un ocicial.Tiene derecho a asistencia médica si la necesita."_
+{% endstep %}
 
-> _"Tiene derecho a permanecer en silencio._&#x20;
->
-> _Todo lo que diga puede y será usado en su contra en un tribunal._&#x20;
->
-> _Tiene derecho a una llamada telefónica en presencia de un ocicial._
->
-> _Tiene derecho a asistencia médica si la necesita."_
+{% step %}
+### Tiempo de Retención:
 
+Las detenciones no deben extenderse innecesariamente. Si no hay pruebas suficientes o el procedimiento se alarga de forma injustificada, se debe liberar al sujeto o procesar la multa correspondiente
+{% endstep %}
 
+{% step %}
+### Cateo y Cateo Superficial:
 
-* 2\. Tiempo de Retención: Las detenciones no deben extenderse innecesariamente. Si no hay pruebas suficientes o el procedimiento se alarga de forma injustificada, se debe liberar al sujeto o procesar la multa correspondiente.
-* 3\. Cacheo y Cacheo Superficial: Solo se puede registrar a un individuo si hay una sospecha razonable, un delito flagrante o durante un arresto.
-
-
-
-4. PERSECUCIONES Y INTERVENCIONES
-
-
-
-* 1\. Código de Persecución: Durante una persecución se deben mantener las sirenas y luces de emergencia activas, modulando por radio la ubicación en todo momento.
-* 2\. Maniobra PIT: Solo está permitida tras dar los avisos correspondientes y cuando la velocidad del vehículo en fuga sea segura (evitar realizar PITs a altas velocidades que causen PowerGaming o muertes absurdas).
-* 3\. Apoyo Especializado: El uso de unidades aéreas (helicóptero) o tácticas (SWAT) requiere la autorización de un rango alto presente en la frecuencia de radio.
+Solo se puede registrar a un individuo si hay una sospecha razonable, un delito flagrante o durante un arresto.
+{% endstep %}
+{% endstepper %}
 
 
 
