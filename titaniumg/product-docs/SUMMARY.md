@@ -4,10 +4,9 @@
 
 ## Normativas Generales
 
-* [CONCEPTOS GENERALES](normativas-generales/conceptos-generales.md)
+* [NORMAS GENERALES](normativas-generales/normas-generales.md)
 * [ZONAS DE LA CIUDAD](normativas-generales/zonas-de-la-ciudad.md)
 * [ROBOS](normativas-generales/robos.md)
-* [GG Y CATEO](normativas-generales/gg-y-cateo.md)
 * [VEHICULOS](normativas-generales/vehiculos.md)
 * [CHARACTER KILL (CK) y PARTIAL KILL (PK)](normativas-generales/character-kill-ck-y-partial-kill-pk.md)
 * [PROHIBICIONES](normativas-generales/prohibiciones.md)
