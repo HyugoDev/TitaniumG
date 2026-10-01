@@ -25,6 +25,7 @@
     * [Investigacion de Inmuebles](normativa-legales/titanium-police-department-tpd/fbi-investigaciones/investigacion-de-inmuebles.md)
     * [Evidencias](normativa-legales/titanium-police-department-tpd/fbi-investigaciones/evidencias.md)
     * [Interrogacion](normativa-legales/titanium-police-department-tpd/fbi-investigaciones/interrogacion.md)
+    * [Desmantelacion](normativa-legales/titanium-police-department-tpd/fbi-investigaciones/desmantelacion.md)
 * [Titanium Medical Service (TMS)](normativa-legales/titanium-medical-service-tms/README.md)
   * [Disposiciones Generales](normativa-legales/titanium-medical-service-tms/disposiciones-generales.md)
   * [Rango](normativa-legales/titanium-medical-service-tms/rango.md)
@@ -34,7 +35,8 @@
 
 ## NORMATIVA DELICTIVA
 
-* [Normativa Ilegal (lobo)](normativa-delictiva/normativa-ilegal-lobo.md)
+* [Normativa Ilegal (lobo)](normativa-delictiva/normativa-ilegal-lobo/README.md)
+  * [Investigaciones](normativa-delictiva/normativa-ilegal-lobo/investigaciones.md)
 * [Niveles](normativa-delictiva/niveles.md)
 
 ## STREMER

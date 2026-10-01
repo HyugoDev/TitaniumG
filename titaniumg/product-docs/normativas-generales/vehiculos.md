@@ -1,5 +1,9 @@
 ---
 icon: car
+cover: >-
+  https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndqa2xvemZhdWhwMnc2NzV5d2V4NDFhb2xsaHdhdGg3OW05ZmxnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jGRidlOLNcwZhNUFb6/giphy.gif
+coverY: -43.01564722617354
+coverHeight: 365
 ---
 
 # VEHICULOS

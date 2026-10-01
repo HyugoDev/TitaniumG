@@ -1,9 +1,9 @@
 ---
 icon: hand-wave
 cover:
-  light: /broken/files/RZpIRdcKO9xoHTOAdnVU
+  light: .gitbook/assets/titaniumg (2).png
   dark: .gitbook/assets/titaniumg (2).png
-coverY: 36.47510668563301
+coverY: 0
 coverHeight: 344
 layout:
   width: default
