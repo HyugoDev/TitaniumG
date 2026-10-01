@@ -8,7 +8,7 @@
 * [ZONAS DE LA CIUDAD](normativas-generales/zonas-de-la-ciudad.md)
 * [ROBOS](normativas-generales/robos.md)
 * [VEHICULOS](normativas-generales/vehiculos.md)
-* [CHARACTER KILL (CK) y PARTIAL KILL (PK)](normativas-generales/character-kill-ck-y-partial-kill-pk.md)
+* [CHARACTER KILL (CK) y PARTIAL KILL TOTAL (PKT)](normativas-generales/character-kill-ck-y-partial-kill-total-pkt.md)
 * [PROHIBICIONES](normativas-generales/prohibiciones.md)
 * [REGLAS +18](normativas-generales/reglas-+18.md)
 * [SANCIONES (LOBO)](normativas-generales/sanciones-lobo.md)
@@ -28,7 +28,8 @@
 * [Titanium Medical Service (TMS)](normativa-legales/titanium-medical-service-tms/README.md)
   * [Disposiciones Generales](normativa-legales/titanium-medical-service-tms/disposiciones-generales.md)
   * [Rango](normativa-legales/titanium-medical-service-tms/rango.md)
-  * [Procedimientos](normativa-legales/titanium-medical-service-tms/procedimientos.md)
+  * [Procedimientos](normativa-legales/titanium-medical-service-tms/procedimientos/README.md)
+    * [CK / PKT](normativa-legales/titanium-medical-service-tms/procedimientos/ck-pkt.md)
 * [Negocios y Empresas](normativa-legales/negocios-y-empresas.md)
 
 ## NORMATIVA DELICTIVA

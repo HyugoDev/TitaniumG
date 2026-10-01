@@ -4,9 +4,7 @@ icon: location-dot
 
 # ZONAS DE LA CIUDAD
 
-## EL SERVER ESTA EN MODO ADMI&#x20;
-
-<figure><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczI0M3RwcDdtc2w5MHNhMHk4b3RyeWg1Z3U1a2JmNzdocG81eDdqZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yTYg8rYC5EFonKosmk/giphy.gif" alt=""><figcaption></figcaption></figure>
+##
 
 {% tabs %}
 {% tab title="Ciudad" icon="city" %}
@@ -76,6 +74,21 @@ Se permitirá el uso de **todo tipo de armamento**.
 {% hint style="info" icon="gun-squirt" %}
 Se permitirá utilizar el armamento correspondiente al **nivel de alerta vigente en la ciudad**.
 {% endhint %}
+{% endtab %}
+
+{% tab title="Territorios" icon="flag" %}
+
+
+***
+
+Los <mark style="color:$danger;">**territorios no son considerados Zona Roja**</mark>. Son zonas específicas del mapa asignadas a las diferentes bandas.
+
+* Ganar la **conquista de un territorio** únicamente otorga la victoria en la **batalla PvP** correspondiente.
+* La **Policía no podrá participar ni intervenir** en las conquistas de territorio.
+* Está **prohibido utilizar mosquete o sniper** dentro de los territorios.
+* Está **prohibido desconectarse** durante una conquista o mientras se desarrolla un conflicto activo dentro del territorio.
+
+cateo??
 {% endtab %}
 
 {% tab title="Norte" icon="volcano" %}

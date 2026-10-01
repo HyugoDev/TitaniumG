@@ -24,6 +24,8 @@ misisipis hasta 2
 
 limite de rehenes 4&#x20;
 
+no francotirador
+
 no motos
 
 aguila (de joyeria para adelante)
