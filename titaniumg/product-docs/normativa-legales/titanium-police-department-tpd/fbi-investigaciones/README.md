@@ -1,6 +1,5 @@
 ---
 icon: magnifying-glass
-coverY: 0
 ---
 
 # FBI (investigaciones)
@@ -13,6 +12,16 @@ coverY: 0
 [investigacion-de-inmuebles.md](investigacion-de-inmuebles.md)
 {% endcontent-ref %}
 
+{% content-ref url="evidencias.md" %}
+[evidencias.md](evidencias.md)
+{% endcontent-ref %}
+
 {% content-ref url="interrogacion.md" %}
 [interrogacion.md](interrogacion.md)
 {% endcontent-ref %}
+
+{% content-ref url="desmantelacion.md" %}
+[desmantelacion.md](desmantelacion.md)
+{% endcontent-ref %}
+
+<figure><img src="https://media.tenor.com/wTD0QMhs5t0AAAAM/gift-anime.gif" alt=""><figcaption></figcaption></figure>

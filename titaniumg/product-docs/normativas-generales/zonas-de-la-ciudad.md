@@ -4,7 +4,15 @@ icon: location-dot
 
 # ZONAS DE LA CIUDAD
 
-##
+### NIVEL DE ALERTA DE LA CIUDAD
+
+* &#x20;Nivel 1 (Presencia): Presencia policial y órdenes verbales claras.
+* &#x20;Nivel 2 (Fuerza Menor): Empleo de taser, macana/porra , resistencia física no letal.
+* &#x20;Nivel 3 (Fuerza Letal): Uso de armas de fuego reglamentarias. Solo se permite disparar cuando la vida del oficial o de terceros esté en peligro inminente (ej. si el sospechoso muestra un arma de fuego o dispara).
+
+{% hint style="danger" icon="ban" %}
+_Prohibido usar el taser si el sospechoso está al volante de un vehículo en marcha o si te está apuntando con un arma de fuego._
+{% endhint %}
 
 {% tabs %}
 {% tab title="Ciudad" icon="city" %}
@@ -32,6 +40,10 @@ Zonas Gubernamentales: Comisarías, Hospitales, Mecánicos y sedes del Gobierno.
 * Se permitirá continuar un rol que se haya iniciado fuera de la zona.
 * Queda prohibido realizar actos de **corrupción** dentro de estas zonas.
 * No se permitirá la **venta de armas** ni mantener armas visibles de manera injustificada.
+
+{% hint style="warning" %}
+**Protección de Comisaría:** Queda prohibido acampar o generar conflictos dentro o en los alrededores inmediatos&#x20;
+{% endhint %}
 {% endtab %}
 
 {% tab title="Zona Roja" icon="tree-deciduous" %}

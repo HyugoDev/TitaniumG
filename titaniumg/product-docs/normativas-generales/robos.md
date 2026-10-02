@@ -33,22 +33,17 @@ Siempre deberá haber 1 policía más que los delictivos.
 
 <details>
 
-<summary>Rusheo en Robos</summary>
+<summary>⚔️ RUSHEO TÁCTICO</summary>
 
-Solo cuando se rompieron negociaciones en el establecimiento
-
-maximo hasta 5 min para realizar el rusheo tactico&#x20;
-
-El bando que cuente con mayor número de integrantes activos en el enfrentamiento deberá tomar la iniciativa y realizar el rusheo.&#x20;
-
-Si estan en igual cantidad el que debe rushear debe ser bando policial
-
-EL contador se reinicia luego de cada muerte
-
-Esta mecánica continuará aplicándose de forma alternada según la superioridad numérica en cada momento del enfrentamiento.
+* El **rusheo táctico** solo podrá realizarse cuando se hayan **roto las negociaciones dentro del establecimiento**.
+* El bando que cuente con **mayor número de integrantes activos** en el enfrentamiento deberá tomar la iniciativa y realizar el rusheo.
+* En caso de existir **igualdad numérica**, el **bando policial** deberá realizar el rusheo.
+* Se contará con un máximo de **5 minutos** para realizar el rusheo táctico.
+* El **contador se reiniciará después de cada muerte**, debiendo volver a evaluarse la superioridad numérica.
+* Esta mecánica se aplicará de forma **alternada según la superioridad numérica existente en cada momento del enfrentamiento**.
 
 {% hint style="warning" %}
-Si alguno de los bandos incumple esta normativa y se niega a rushear cuando le corresponde, la parte afectada podrá solicitar un RR (Reporte de Rol), quedando sujeto a revisión administrativa.
+Si alguno de los bandos **incumple esta normativa y se niega a realizar el rusheo cuando le corresponda**, la parte afectada podrá solicitar un **RR (Reporte de Rol)**. El caso quedará sujeto a **revisión administrativa** y podrá conllevar una **sanción**.
 {% endhint %}
 
 </details>

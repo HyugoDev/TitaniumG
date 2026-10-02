@@ -16,6 +16,7 @@
 ## NORMATIVA LEGALES
 
 * [Titanium Police Department (TPD)](normativa-legales/titanium-police-department-tpd/README.md)
+  * [Normas Generales](normativa-legales/titanium-police-department-tpd/normas-generales.md)
   * [Codigos](normativa-legales/titanium-police-department-tpd/codigos.md)
   * [Rangos](normativa-legales/titanium-police-department-tpd/rangos.md)
   * [Atracos y Operativos](normativa-legales/titanium-police-department-tpd/atracos-y-operativos.md)
